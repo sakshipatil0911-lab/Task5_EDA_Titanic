@@ -1,11 +1,10 @@
-# Task5_EDA_Titanic
-Exploratory Data Analysis (EDA) on the Titanic dataset using Python, Pandas, Matplotlib, and Seaborn.
+
 
 # 📊 Task 5 - Exploratory Data Analysis (EDA) on Titanic Dataset
 
 ## 👩‍💻 Data Analyst Internship Task
 
----
+
 
 ## 🎯 Objective
 
@@ -13,7 +12,6 @@ The objective of this project is to perform Exploratory Data Analysis (EDA) on t
 
 EDA helps in understanding the dataset before applying any machine learning models.
 
----
 
 ## 📂 Dataset Information
 
@@ -30,7 +28,6 @@ EDA helps in understanding the dataset before applying any machine learning mode
 - Fare
 - Embarked
 
----
 
 ## 🛠 Tools & Libraries Used
 
@@ -41,7 +38,6 @@ EDA helps in understanding the dataset before applying any machine learning mode
 - Seaborn
 - Jupyter Notebook
 
----
 
 ## 🔎 Steps Performed
 
@@ -74,7 +70,7 @@ EDA helps in understanding the dataset before applying any machine learning mode
 - Generated heatmap to identify relationships between numeric variables.
 - Checked for multicollinearity.
 
----
+
 
 ## 📈 Key Insights
 
@@ -84,7 +80,7 @@ EDA helps in understanding the dataset before applying any machine learning mode
 - Most passengers were between 20–40 years old.
 - Passenger class and fare were strongly related.
 
----
+
 
 ## 📊 Visualizations Used
 
@@ -95,7 +91,7 @@ EDA helps in understanding the dataset before applying any machine learning mode
 - Heatmap
 - Pairplot
 
----
+
 
 ## 🧠 What I Learned
 
@@ -105,16 +101,16 @@ EDA helps in understanding the dataset before applying any machine learning mode
 - Understanding relationships between variables.
 - Importance of EDA before model building.
 
----
+
 
 ## 📁 Repository Contents
 
 - `train.csv`
 - `Task5_EDA_Titanic.ipynb`
 - `Task5_EDA_Titanic_Report.pdf`
-- `README.md`
+- `README.me`
 
----
+
 
 ## 🚀 Conclusion
 
@@ -122,7 +118,7 @@ The EDA of the Titanic dataset revealed that gender, passenger class, and fare w
 
 This analysis provides a strong foundation for predictive modeling and further data science tasks.
 
----
+
 
 👩‍💻 Created by: **Sakshi Patil**  
 📅 Internship Task Submission
